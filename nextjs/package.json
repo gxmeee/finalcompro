@@ -16,6 +16,7 @@
     "@mui/icons-material": "^6.0.1",
     "@mui/material": "^6.0.1",
     "@mui/material-nextjs": "^6.0.1",
+    "@mui/toolpad-core": "^0.1.51",
     "@mui/x-charts": "^7.15.0",
     "@mui/x-data-grid": "^7.15.0",
     "axios": "^1.7.2",
